@@ -1,0 +1,6 @@
+.idea
+venv
+materials
+*docx
+*pdf
+.python-version
