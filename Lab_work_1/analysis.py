@@ -1,7 +1,7 @@
 # BlackRock (BLK) preprocessing and analysis of historical stock prices from Yahoo Finance.
 
 """
-1) Trend identification and residual analysis.
+1) Trend identification with Least Squares Method and residual analysis.
 2) Residual statistical characteristics (mean, variance, std, histogram).
 3) Synthesizing an additive model B_measured = B_ideal + xi with matching characteristics.
 4) Verification: comparing the synthetic series against the real data.
